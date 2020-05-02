@@ -1,0 +1,3 @@
+rootProject.name = 'ARBubble'
+
+include ':app'
