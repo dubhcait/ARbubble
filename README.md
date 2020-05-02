@@ -1,6 +1,6 @@
 # AR Bubble
 
-This is simple play around for testing the fesability of a AR feature in [MyBubble](https://github.com/dubhcait/myBubbleAndroid), build using React Viro, started with react-viro init.
+This is simple play around for testing the feasibility of a AR feature in [MyBubble](https://github.com/dubhcait/myBubbleAndroid), build using React Viro, started with react-viro init.
 
 ## Set up
 
