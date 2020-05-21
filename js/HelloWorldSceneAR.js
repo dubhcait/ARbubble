@@ -6,17 +6,10 @@ import { StyleSheet } from "react-native";
 
 import {
   ViroARScene,
-  ViroText,
   ViroConstants,
   ViroBox,
   ViroMaterials,
-  Viro3DObject,
   ViroAmbientLight,
-  ViroSpotLight,
-  ViroARPlaneSelector,
-  Viro360Image,
-  ViroARPlane,
-  ViroImage,
   ViroCamera,
 } from "react-viro";
 
